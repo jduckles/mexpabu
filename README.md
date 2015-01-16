@@ -5,4 +5,4 @@ This analysis is to be used to do a point in polygon analysis of point collectio
 
 The following scripts work on a dataset of Painted Bunting collections data in Mexico. While the sqlite data are not in the repository, contact jduckles@ou.edu or ebridge@ou.edu to make contact with the data rights holder if interested in using this particular dataset.
 
-![Example Plot](https://rawgithub.com/jduckles/mexpabu/master/month010.svg)
+![Example Plot](https://rawgithub.com/jduckles/mexpabu/master/out/month010.svg)
