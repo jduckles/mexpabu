@@ -4,4 +4,4 @@ It is not yet generalized and works specifically in Mexico at the moment.
 
 The following scripts work on a dataset of Painted Bunting collections data in Mexico. While the data are not in the repository, contact jduckles@ou.edu or ebridge@ou.edu to make contact with the data rights holder if interested.
 
-![Example Plot](month10.svg)
+![Example Plot](month010.svg)
